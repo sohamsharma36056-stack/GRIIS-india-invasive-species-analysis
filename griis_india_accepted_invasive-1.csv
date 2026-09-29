@@ -1,0 +1,254 @@
+id,taxonID,scientificName,acceptedNameUsage,kingdom,phylum,class,order,family,taxonRank,taxonomicStatus,isInvasive,habitat,locationID,countryCode,occurrenceStatus,establishmentMeans
+80509,80509,Acacia dealbata Link,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80518,80518,Acacia mearnsii De Wild.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80519,80519,Acacia melanoxylon R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80536,80536,Acalypha ciliata Forssk.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80541,80541,Acanthospermum hispidum DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80550,80550,Acmella radicans (Jacquin) R.K.Jansen,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80558,80558,Aerva javanica Juss.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80559,80559,Aeschynomene americana L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80570,80570,Ageratina adenophora (Spreng.) R.M.King & H.Rob.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80572,80572,Ageratina riparia (Regel) R.M.King & H.Rob.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80573,80573,Ageratum conyzoides L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80574,80574,Ageratum houstonianum Mill.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80579,80579,Ailanthus altissima (Mill.) Swingle,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Simaroubaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80608,80608,Alternanthera brasiliana (L.) Kuntze,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80610,80610,Alternanthera ficoidea R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80611,80611,Alternanthera paronychioides A.St.-Hil.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80612,80612,Alternanthera philoxeroides (Mart.) Griseb.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80613,80613,Alternanthera pungens Kunth,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80614,80614,Alternanthera spinosa Roem. & Schult.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80619,80619,Amaranthus palmeri S.Watson,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80622,80622,Amaranthus spinosus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80626,80626,Ambrosia artemisiifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80647,80647,Annona glabra L.,,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80653,80653,"Anoplolepis gracilipes (Smith, 1857)",,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80656,80656,Anthemis cotula L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80660,80660,Antigonon leptopus Hook. & Arn.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80687,80687,Argemone mexicana L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80688,80688,Argemone ochroleuca Sweet,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80691,80691,Aristea ecklonii Baker,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80704,80704,Asclepias curassavica L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80706,80706,Asparagus densiflorus (Kunth) Jessop,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80719,80719,"Axis axis (Erxleben, 1777)",,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Native|Alien
+80720,80720,Axonopus compressus (Sw.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80757,80757,Bidens biternata (Lour.) Merr. & Sherff,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80759,80759,Bidens pilosa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80768,80768,Blainvillea acmella (L.) Philipson,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80770,80770,Blumea obliqua Druce,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80771,80771,Boerhavia erecta L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80780,80780,Brachiaria mutica Stapf,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80794,80794,Bromus catharticus Vahl,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80796,80796,Bromus inermis Leyss.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80798,80798,Broussonetia papyrifera Vent.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Moraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80806,80806,Brugmansia suaveolens Bercht. & J.Presl,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80817,80817,Buddleja davidii Franch.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80824,80824,Cabomba caroliniana A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Nymphaeales,Cabombaceae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+80832,80832,Caladium bicolor Vent.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80836,80836,Calceolaria mexicana Benth.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Calceolariaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80859,80859,Calopogonium mucunoides Desv.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80872,80872,Cannabis sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Cannabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80876,80876,"Carassius auratus (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+80879,80879,Cardamine hirsuta L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80880,80880,Cardamine trichocarpa Hochst. ex A.Rich.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80883,80883,Carduus nutans L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80902,80902,Casuarina equisetifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Casuarinaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80910,80910,Celosia argentea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80913,80913,Cenchrus clandestinus (Hochst. ex Chiov.) Morrone,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80919,80919,Centrosema molle Mart. ex Benth.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80931,80931,Cestrum aurantiacum Lindl.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80940,80940,Chamaecrista rotundifolia Greene,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80942,80942,Chenopodium album L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80948,80948,Chloris barbata Sw.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80954,80954,Chromolaena odorata (L.) R.M.King & H.Rob.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80967,80967,Cinnamomum camphora (L.) J.Presl,,Plantae,Tracheophyta,Magnoliopsida,Laurales,Lauraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80971,80971,Cirsium arvense (L.) Scop.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80972,80972,Cissampelos pareira L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Menispermaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80973,80973,Citharexylum spinosum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+80980,80980,"Clarias gariepinus (Burchell, 1822)",,Animalia,Chordata,Actinopterygii,Siluriformes,Clariidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+80988,80988,Clematis vitalba L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81004,81004,Clidemia hirta D.Don,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Melastomataceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81030,81030,Corchorus aestuans L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81032,81032,Corchorus fascicularis Lam.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81033,81033,Corchorus tridens L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81034,81034,Corchorus trilocularis L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81056,81056,Cotula australis Hook.f.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81058,81058,Crassocephalum crepidioides (Benth.) S.Moore,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81074,81074,Crotalaria pallida Aiton,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81075,81075,Croton bonplandianus Baill.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81076,81076,Croton hirtus L'HÃ©r.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81079,81079,Cryptostegia grandiflora R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81081,81081,"Ctenopharyngodon idella (Valenciennes, 1844)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+81101,81101,Cuscuta chinensis Lam.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81109,81109,Cyclospermum leptophyllum (Pers.) Sprague,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81110,81110,Cylindropuntia ramosissima (Engelm.) F.M.Knuth,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81117,81117,Cynodon dactylon (L.) Pers.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81123,81123,Cyperus difformis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED,Invasive,Terrestrial|Freshwater,India,IN,Present,Alien
+81130,81130,Cyperus rotundus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED,Invasive,Terrestrial|Freshwater,India,IN,Present,Alien
+81133,81133,"Cyprinus carpio Linnaeus, 1758",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81139,81139,Cytisus scoparius (L.) Link,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81150,81150,Datura ferox L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81151,81151,Datura innoxia Mill.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81152,81152,Datura metel L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81154,81154,Datura stramonium L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81163,81163,Desmanthus virgatus (L.) Willd.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81177,81177,Dicoma tomentosa Cass.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81183,81183,Digera muricata Mart,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81192,81192,Dinebra retroflexa Panz.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81197,81197,Dolichandra unguis-cati (L.) L.G.Lohmann,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81218,81218,Duranta erecta L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81223,81223,Dysphania ambrosioides (L.) Mosyakin & Clemants,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81228,81228,Echinochloa colona (L.) Link,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81229,81229,Echinochloa crus-galli (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81232,81232,Eclipta prostrata L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81234,81234,Eichhornia crassipes Solms,,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+81235,81235,Elaeagnus umbellata C.P.Thunb. ex A.Murray,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Elaeagnaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81265,81265,Eragrostis pilosa P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81275,81275,Erigeron bonariensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81276,81276,Erigeron canadensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81277,81277,Erigeron karvinskianus DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81352,81352,Eugenia uniflora L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81360,81360,Euphorbia hirta L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81362,81362,Euphorbia hyssopifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81376,81376,Evolvulus nummularius L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81394,81394,Flaveria trinervia Mohr,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81410,81410,Galinsoga parviflora Cav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81411,81411,Galinsoga quadriradiata Ruiz & Pav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81412,81412,"Gambusia affinis (Baird & Girard, 1853)",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81446,81446,Gnaphalium polycaulon Pers.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81452,81452,Gomphrena serrata L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81453,81453,Goniocaulon indicum C.B.Clarke,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81470,81470,Gymnocoronis spilanthoides DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81497,81497,Heliconia psittacorum L.f.,,Plantae,Tracheophyta,Liliopsida,Zingiberales,Heliconiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81501,81501,Heliotropium indicum L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Heliotropiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81543,81543,"Hypophthalmichthys molitrix (Valenciennes, 1844)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81544,81544,"Hypophthalmichthys nobilis (Richardson, 1845)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81545,81545,Hyptis capitata Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81557,81557,Indigofera linnaei Ali,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81558,81558,Indigofera spicata Forssk.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81561,81561,Ipomoea aquatica Forssk.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81566,81566,Ipomoea cairica (L.) Sweet,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81568,81568,Ipomoea carnea Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81569,81569,Ipomoea eriocarpa R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81572,81572,Ipomoea hederifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81574,81574,Ipomoea indica Merr.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81580,81580,Ipomoea purpurea (L.) Roth,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81581,81581,Ipomoea quamoclit L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81616,81616,Jatropha gossypiifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81640,81640,Kalanchoe pinnata Pers.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81645,81645,Kappaphycus alvarezii (Doty) Doty ex P.C.Silva,,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Solieriaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81654,81654,Lagascea mollis Cav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81662,81662,Lantana camara L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81682,81682,Leonotis nepetifolia (L.) R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81683,81683,Lepidium didymum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81698,81698,Leucanthemum vulgare Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81713,81713,Lippia alba (Mill.) N.E.Br.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81736,81736,Ludwigia peruviana (L.) H.Hara,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED,Invasive,Terrestrial|Freshwater,India,IN,Present,Alien
+81748,81748,Lysiloma latisiliquum (L.) Benth.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81753,81753,Macroptilium atropurpureum (L.) Urb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81754,81754,Macroptilium lathyroides (L.) Urb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81755,81755,Maesopsis eminii Engl.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rhamnaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81760,81760,Malachra capitata L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81770,81770,Malvastrum coromandelianum (L.) Garcke,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81788,81788,Martynia annua L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Martyniaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81793,81793,Mecardonia procumbens Small,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81802,81802,Melaleuca quinquenervia (Cav.) S.T.Blake,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81809,81809,Melilotus albus Medik.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81811,81811,Melinis repens (Willd.) Zizka,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81812,81812,Melochia corchorifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81831,81831,Mikania micrantha Kunth,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81836,81836,Mimosa diplotricha C.Wright ex Sauvalle,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81839,81839,Mimosa pigra L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81840,81840,Mimosa pudica L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81841,81841,Mirabilis jalapa L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81849,81849,Monochoria vaginalis C.Presl,,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+81860,81860,Muntingia calabura L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Muntingiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81884,81884,Nicandra physalodes (L.) Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81888,81888,Nicotiana plumbaginifolia Viv.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81922,81922,"Oncorhynchus mykiss (Walbaum, 1792)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish|Marine,India,IN,Present,Alien
+81929,81929,Opuntia elatior Mill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81932,81932,"Oreochromis mossambicus (Peters, 1852)",,Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81933,81933,"Oreochromis niloticus (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+81948,81948,Oxalis corniculata L.,,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Oxalidaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81952,81952,Oxalis latifolia Kunth,,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Oxalidaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81953,81953,Oxalis pes-caprae L.,,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Oxalidaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81956,81956,Oxalis spiralis G.Don,,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Oxalidaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81959,81959,Oxygonum sinuatum Dammer,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81982,81982,Parthenium hysterophorus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81995,81995,Passiflora edulis Sims,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Passifloraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+81996,81996,Passiflora foetida L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Passifloraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82010,82010,Paulownia tomentosa Steud.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Paulowniaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82037,82037,Peperomia pellucida Kunth,,Plantae,Tracheophyta,Magnoliopsida,Piperales,Piperaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82053,82053,Phalaris arundinacea L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial|Freshwater,India,IN,Present,Alien
+82065,82065,Phyllanthus tenellus Roxb.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Phyllanthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82069,82069,Physalis angulata L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82071,82071,Physalis lagascae Roem. & Schult.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82075,82075,Physalis pruinosa L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82080,82080,"Piaractus brachypomus (Cuvier, 1818)",,Animalia,Chordata,Actinopterygii,Characiformes,Serrasalmidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+82081,82081,Pilea microphylla (L.) Liebm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Urticaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82096,82096,Pistia stratiotes L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+82098,82098,Pithecellobium dulce (Roxb.) Benth.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82104,82104,Pittosporum undulatum Vent.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Pittosporaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82117,82117,Poa annua L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82121,82121,"Poecilia reticulata Peters, 1859",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED,Invasive,Freshwater|Brackish,India,IN,Present,Alien
+82139,82139,Portulaca oleracea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82153,82153,Prosopis juliflora (Sw.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82181,82181,"Pterygoplichthys multiradiatus (Hancock, 1828)",,Animalia,Chordata,Actinopterygii,Siluriformes,Loricariidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+82184,82184,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,VARIETY,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82220,82220,Ricinus communis L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82222,82222,Robinia pseudoacacia L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82247,82247,Ruellia tuberosa L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82268,82268,Salix cinerea L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82284,82284,Salvinia molesta D.Mitch.,,Plantae,Tracheophyta,Polypodiopsida,Salviniales,Salviniaceae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+82314,82314,Scoparia dulcis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82330,82330,Senna alata (L.) Roxb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82336,82336,Senna hirsuta (L.) H.S.Irwin & Barneby,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82339,82339,Senna obtusifolia (L.) H.S.Irwin & Barneby,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82340,82340,Senna occidentalis (L.) Link,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82347,82347,Senna spectabilis (DC.) H.S.Irwin & Barneby,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82350,82350,Senna tora (L.) Roxb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82351,82351,Senna uniflora (Mill.) H.S.Irwin & Barneby,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82354,82354,Sesamum radiatum Schumach. & Thonn.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Pedaliaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82364,82364,Sida acuta Burm.f.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82392,82392,Solanum americanum Mill.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82401,82401,Solanum elaeagnifolium Cav.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82404,82404,Solanum glaucophyllum Desf.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82409,82409,Solanum mauritianum Scop.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82410,82410,Solanum myriacanthum Dunal,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82412,82412,Solanum seaforthianum Andrews,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82414,82414,Solanum torvum Sw.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82417,82417,Solanum viarum Dunal,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82425,82425,Soliva anthemifolia R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82426,82426,Sonchus arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82427,82427,Sonchus asperar,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82428,82428,Sonchus oleraceus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82429,82429,Sonchus wightianus DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82440,82440,Spergula arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82441,82441,Spermacoce alata Aubl.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82442,82442,Spermacoce pusilla Wall.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82447,82447,Sphagneticola trilobata (L.) Pruski,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82456,82456,Stachytarpheta cayennensis (Rich.) J.Vahl,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82457,82457,Stachytarpheta jamaicensis Vahl,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82459,82459,Stachytarpheta urticifolia Sims,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82484,82484,Stylosanthes hamata (L.) Taub.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82493,82493,Synedrella nodiflora Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82500,82500,Tagetes minuta L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82519,82519,Tecoma stans (L.) Kunth,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82534,82534,Thevetia peruviana Merr.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82544,82544,Tithonia diversifolia A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82547,82547,Torenia fournieri E.Fourn.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Linderniaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82557,82557,Triadica sebifera Small,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82559,82559,Tribulus terrestris L.,,Plantae,Tracheophyta,Magnoliopsida,Zygophyllales,Zygophyllaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82561,82561,Tridax procumbens L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82574,82574,Triumfetta rhomboidea Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82581,82581,Turnera subulata Sm.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Turneraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82582,82582,Turnera ulmifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Turneraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82583,82583,Typha angustifolia L.,,Plantae,Tracheophyta,Liliopsida,Poales,Typhaceae,SPECIES,ACCEPTED,Invasive,Terrestrial|Freshwater,India,IN,Present,Alien
+82585,82585,Ulex europaeus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82588,82588,Urena lobata L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82592,82592,Vaccaria hispanica (Miller) Rauschert,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82594,82594,Vachellia farnesiana (L.) Wight & Arn.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82610,82610,Verbesina encelioides (Cav.) A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82640,82640,Waltheria indica L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
+82657,82657,"Xiphophorus maculatus (GÃ¼nther, 1866)",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED,Invasive,Freshwater,India,IN,Present,Alien
+82658,82658,Youngia japonica (L.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED,Invasive,Terrestrial,India,IN,Present,Alien
