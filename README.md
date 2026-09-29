@@ -88,7 +88,7 @@ At the family level, Asteraceae had the highest number of records, followed by F
 
 These results describe the composition of records in the GRIIS India dataset. They should not be interpreted as measures of species abundance, population size, ecological impact or invasion risk.
 
-![Top 10 Families](chart_family(1).png)
+![Top 10 Families](chart_family (1).png)
 ## Tools Used
 
 - Microsoft Excel
