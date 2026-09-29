@@ -114,7 +114,7 @@ Sankaran, K. V., Khuroo, A. A., Raghavan, R., Molur, S., Kumar, B., Wong, L. J.,
 
 DOI: 10.15468/uvnf8m
 
-The GRIIS India dataset is published through GBIF under a CC BY 4.0 licence. Appropriate attribution should be retained when reusing the dataset. 0
+The GRIIS India dataset is published through GBIF under a CC BY 4.0 licence. Appropriate attribution should be retained when reusing the dataset. 
 
 ## Project Scope
 
